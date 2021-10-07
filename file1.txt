@@ -1,6 +1,1 @@
-hello world
-file changed at local
-file changed at origin 
-file changed again at local
-file changed again
-file added
+chamged
